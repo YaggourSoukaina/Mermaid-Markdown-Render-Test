@@ -1,7 +1,6 @@
 name: render-md-mermaid
 
 on:
- workflow_dispatch:
  push:
 
 jobs:
