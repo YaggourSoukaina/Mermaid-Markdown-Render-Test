@@ -11,14 +11,6 @@
   linked above is shown. The details tag has to follow the image tag. (newlines allowed)
 
 ```mermaid
-graph LR 
-    A[Christmas] -->|Get money| B(Go shopping) 
-    B --> C{Let me think} 
-    C -->|One| D[Laptop] 
-    C -->|Two| E[iPhone] 
-    C -->|Three| F[fa:fa-car Car]
-```
-```mermaid
 graph TD;
     A-->B;
     A-->C;
