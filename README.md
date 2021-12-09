@@ -18,6 +18,13 @@ graph LR
     C -->|Two| E[iPhone] 
     C -->|Three| F[fa:fa-car Car]
 ```
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```   
 </details>
 ~~~
 
@@ -40,6 +47,13 @@ graph LR
     C -->|Two| E[iPhone] 
     C -->|Three| F[fa:fa-car Car]
 ```
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```   
 
 </details>
 
