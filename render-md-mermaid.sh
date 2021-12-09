@@ -17,6 +17,13 @@
 #    C -->|Two| E[iPhone] 
 #    C -->|Three| F[fa:fa-car Car]
 # ```
+# ```mermaid
+# graph TD;
+#    A-->B;
+#    A-->C;
+#    B-->D;
+#    C-->D;
+# ```   
 # </details>
 #
 # The script will pick up the graph definition from the mermaid code block and render it to the image file and path specified in the
